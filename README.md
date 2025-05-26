@@ -1,14 +1,38 @@
-# AI Companion Bot 🤖
+# 🤖 AI Companion Bot
 
-This is a simple Python-based AI chatbot that interacts with users via text.
+This is a Python-based AI Companion Chatbot that can engage in simple conversations with users. Designed to be interactive, lightweight, and extendable, it's ideal for learning, fun experiments, or even mental health chat tools.
 
-## Features
+---
+
+## 🚀 Features
 - Text-based conversation
-- Rule-based or AI-enhanced responses
-- Easy to expand with custom logic
+- Simple natural language understanding
+- Easy to expand with your own responses or logic
+- Clean and modular Python code
 
-## Getting Started
-1. Clone the repo or download the `chatbot.py` file.
-2. Run it using Python:
+---
+
+## 📸 Screenshots
+
+### Chatbot Startup
+!(Screenshot%202025-03-26%20152452.png)
+
+### Chatbot in Conversation
+!(Screenshot%202025-03-26%20152507.png)
+
+
+!(Screenshot%202025-03-26%20152610.png)
+
+
+!(Screenshot%202025-03-26%20152644.png)
+
+> _Note: Screenshots demonstrate the chatbot running in a telegram environment._
+
+---
+
+## 💻 How to Run
+
+1. Clone or download this repository:
    ```bash
-   python chatbot.py
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
