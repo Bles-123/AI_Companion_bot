@@ -21,6 +21,8 @@ This is a Python-based AI Companion Chatbot that can engage in simple conversati
 ![Conversation](Screenshot%202025-03-26%20152507.png)
 ![Conversation Continued](Screenshot%202025-03-26%20152610.png)
 ![Final Message](Screenshot%202025-03-26%20152644.png)
+![Final Message](Screenshot%202025-03-26%20152630.png)
+
 
 > _Note: Screenshots demonstrate the chatbot running in a Telegram environment._
 
