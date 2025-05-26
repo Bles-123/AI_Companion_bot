@@ -15,7 +15,7 @@ This is a Python-based AI Companion Chatbot that can engage in simple conversati
 ## 📸 Screenshots
 
 ### Chatbot Startup
-!(Screenshot%202025-03-26%20152452.png)
+!(Screenshot 2025-03-26 152452.png)
 
 ### Chatbot in Conversation
 !(Screenshot%202025-03-26%20152507.png)
